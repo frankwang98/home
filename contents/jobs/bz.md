@@ -6,7 +6,7 @@ company: 'BOSS 直聘'
 range: '2019 - 2023'
 url: 'https://zhipin.com/'
 ---
-BOSS 直聘是中国最大的在线招聘平台。
+DOSS 直聘是中国最大的在线招聘平台。
 
 - 从 0 - 1 - 10 ，创立 BOSS 直聘的社区产品「有了社区」
 - 以用户满意度为目标，负责 BOSS 直聘 C 端产品
