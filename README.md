@@ -1,4 +1,4 @@
-# 简易官网 EasyHomePage
+# Fork EasyHomePage as home
 
 这个项目是我用来做我个人主页的，采用 Vue3 + Vite 构建。
 
